@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &559857743786159292
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 559857743786159294}
+  - component: {fileID: 559857743786159293}
+  m_Layer: 0
+  m_Name: SpawnManager1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &559857743786159294
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 559857743786159292}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 60.80823, y: 31.95231, z: 33.323856}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &559857743786159293
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 559857743786159292}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 304c246e06b06a5499eda48a2555d2ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Free_Racing_Car_Blue: {fileID: 1042750933184934871, guid: 0371c1d7c4b212a458fe20fdb16fabdf, type: 3}
+  catusKing2: {fileID: 363148113411915246, guid: 2107bfc1bd16d94468ca120dc07e6051, type: 3}
+  catusKing: {fileID: 0}
+  catusKing3: {fileID: 0}
+  part2: {fileID: 0}
+  catus: {fileID: 1241292646363755235, guid: c31d91794aebafc48b57efdcd49820da, type: 3}
+  button: {fileID: 2338329595079975132, guid: e494e1bfca9713043ac269fb7d86a0be, type: 3}
+  xPos: 0
